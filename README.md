@@ -3,11 +3,11 @@
 
 # How To Install & Use
 
-#$ git clone https://github.com/511j/zero.git
+# $ git clone https://github.com/511j/zero.git
 
-#$ pip3 install -r requirements.txt
+# $ pip3 install -r requirements.txt
 
-#$ cd zero
+# $ cd zero
 
-#$ python3 zero.py
+# $ python3 zero.py
 
