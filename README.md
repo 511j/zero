@@ -6,7 +6,7 @@
 
 # $ pip3 install -r requirements.txt
 
-# $ cd zero
+# $ cd zero-main
 
 # $ python3 zero.py
 
