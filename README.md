@@ -5,7 +5,7 @@
 
 #$ git clone https://github.com/511j/zero.git
 
-# $ pip3 install -r requirements.txt
+#$ pip3 install -r requirements.txt
 
 #$ cd zero
 
